@@ -4,7 +4,7 @@
 
 OnChat is a next-generation social chat platform built for users who value **privacy, freedom, and seamless communication**. Designed with a modern decentralized mindset, OnChat empowers users to connect without compromise.
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : 8d4GgqCtjfi19FmfBrfq2pj55cQjkNRdWvMobVmCpump
 ---
 
 ## 🌐 Official Links
